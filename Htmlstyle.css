@@ -1,0 +1,51 @@
+.header{
+    padding: 20px;
+    text-align: center;
+    background-image: url(Rainforest.jpg);
+    color: white;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 24px;
+}
+
+.heading{
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.text{
+    font-family: 'Libre Baskerville', serif;
+}
+
+/* This part repeats(navbar) */
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li{
+    float: left;
+    font-family: 'raleway', sans-serif;
+}
+
+.name{
+    float: right;
+}
+
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: magenta;
+}
+
+.active{
+    background-color: mediumseagreen;
+}
+  

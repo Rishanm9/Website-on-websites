@@ -1,0 +1,73 @@
+.header{
+    padding: 50px;
+    text-align: center;
+    background-image: linear-gradient(to right, #7f7fd5, #86A8E7, #91eae4);
+    color: whitesmoke;
+    font-size: 30px; 
+    text-shadow: 3px 3px skyblue;
+    font-family: 'Oswald', sans-serif;
+}
+
+.main{
+    padding: 1px;
+    font-size: 20px;
+}
+
+.main h2{
+    font-family: 'Libre Baskerville', serif;
+}
+
+.main p{
+    font-family: 'Raleway', sans-serif;
+}
+
+.html{
+    background-color: #6ee387;
+    box-shadow: 5px 10px 5px grey;
+}
+
+.css{
+    background-color: #3abeff;
+    box-shadow: 5px 10px 5px grey;
+}
+
+.JavaScript{
+    background-color: #cdc2f5;
+    box-shadow: 5px 10px 5px grey;
+}
+
+
+/* This part repeats(navbar) */
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li{
+    float: left;
+    font-family: 'raleway', sans-serif;
+}
+
+.name{
+    float: right;
+}
+
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: magenta;
+}
+
+.active{
+    background-color: mediumseagreen;
+}
+  
