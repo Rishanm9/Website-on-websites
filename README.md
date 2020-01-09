@@ -1,2 +1,2 @@
 # Website-about-websites
- a website about websites i am making for fun
+ This website is about a website im working on for fun and to learn more coding.
